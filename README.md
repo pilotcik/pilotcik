@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Sardorbek Moinidinov  
+# 👋 Hey, I’m Sardorbek Mo'ydinov 
 
 ## 🚀 About Me  
 Passionate hardware–software developer & cybersecurity enthusiast.  
